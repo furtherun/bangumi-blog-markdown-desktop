@@ -53,7 +53,7 @@ console.log(result);
 - [markdown端预览效果](https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.md)
 - [bbcode的预览效果](https://bgm.tv/blog/330695)
 - [markdown文本源码](https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.md)
-- [bbcode转换结果](https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/artivle.bb.md)
+- [bbcode转换结果](https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.bb.md)
 
 ## 参考项目
 

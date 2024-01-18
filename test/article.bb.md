@@ -7,7 +7,7 @@
 
 该工具的目的是为了尽可能优雅地书写markdown时，又能保留bbcode中常用的特性。也因此本工具做了一些[i][b]自定义的处理[/b][/i]，从而兼顾保障本地markdown书写、阅读的体验和最终Blog的展示效果，这些处理在下面会有详细说明，并使用[size=15][color=crimson][b]【】[/b][/color][/size]标注出来。
 
-没错，本文正是用该工具转换生成！这里给出这篇文章的[url=https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.md]markdown端预览效果[/url]和[url=https://bgm.tv/blog/330695]bbcode的预览效果[/url]以及相应的代码[url=https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.md]markdown源码[/url]和[url=https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/artivle.bb.md]bbcode转换结果[/url]，下面具体讲讲该工具支持的语法，并展示实际效果。
+没错，本文正是用该工具转换生成！这里给出这篇文章的[url=https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.md]markdown端预览效果[/url]和[url=https://bgm.tv/blog/330695]bbcode的预览效果[/url]以及相应的代码[url=https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.md]markdown源码[/url]和[url=https://github.com/furtherun/bangumi-blog-markdown-desktop/blob/main/test/article.bb.md]bbcode转换结果[/url]，下面具体讲讲该工具支持的语法，并展示实际效果。
 
 [b][size=24]Heading 1[/size][/b]
 
