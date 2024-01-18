@@ -1,0 +1,23 @@
+{
+  "name": "bangumi-blog-markdown-desktop",
+  "version": "0.0.1",
+  "description": "Write markdown articles in your text editor and convert them to Bangumi bbcode locally.",
+  "main": "md2bb.js",
+  "type": "module",
+  "scripts": {
+    "example": "node test-example.js",
+    "article": "node test-article.js"
+  },
+  "keywords": [
+    "bangumi",
+    "bangumi blog",
+    "markdown",
+    "bbcode"
+  ],
+  "author": "furtherun",
+  "license": "ISC",
+  "dependencies": {
+    "commonmark": "^0.29.3",
+    "html-escaper": "^3.0.3"
+  }
+}
