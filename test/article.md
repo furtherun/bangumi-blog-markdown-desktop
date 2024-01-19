@@ -414,22 +414,24 @@ console.log('The order, active... Punishment!')
 进阶用法，用summary内容作为“提示词”，提示词使用醒目颜色（yellowgreen）标注，
 后面紧接着的是mask处理的文本。
 
+有些无语的敏感词。
+
 ```md
 <details>
-<summary>《纸上的魔法使》</summary>
+<summary>《纸》</summary>
 ——啊，神呀。这是何等的悲剧。
 能否恳请您把这出悲剧变成喜剧，变成一出任何人也能开怀大笑的愉快喜剧？
-然后，若是您大发慈悲，求求实现我的恋情。是的，唯有一回我也乐意。
+然后，若是您大發慈悲，求求实现我的恋情。是的，唯有一回我也乐意。
 向神发誓，我赌上一生来爱你。
 向神发誓，我求得偿夙愿。
 </details>
 ```
 
 <details>
-<summary>《纸上的魔法使》</summary>
+<summary>《纸》</summary>
 ——啊，神呀。这是何等的悲剧。
 能否恳请您把这出悲剧变成喜剧，变成一出任何人也能开怀大笑的愉快喜剧？
-然后，若是您大发慈悲，求求实现我的恋情。是的，唯有一回我也乐意。
+然后，若是您大發慈悲，求求实现我的恋情。是的，唯有一回我也乐意。
 向神发誓，我赌上一生来爱你。
 向神发誓，我求得偿夙愿。
 </details>
@@ -443,7 +445,7 @@ console.log('The order, active... Punishment!')
 
 ```md
 <details>
-<summary> 《WHITE ALBUM2 -introductory chapter-》   </summary>
+<summary> 《WA2 -ic-》   </summary>
 为什么会变成这样呢……第一次有了喜欢的人。
 有了能做一辈子朋友的人。两件快乐事情重合在一起。 
 而这两份快乐，又给我带来更多的快乐。              
@@ -452,7 +454,7 @@ console.log('The order, active... Punishment!')
 ```
 
 <details>
-<summary> 《WHITE ALBUM2 -introductory chapter-》   </summary>
+<summary> 《WA2 -ic-》   </summary>
 为什么会变成这样呢……第一次有了喜欢的人。
 有了能做一辈子朋友的人。两件快乐事情重合在一起。 
 而这两份快乐，又给我带来更多的快乐。              
